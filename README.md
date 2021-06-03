@@ -28,6 +28,7 @@ A curated list of awesome Gradient frameworks, libraries and software and resour
 * [auroral](https://github.com/LunarLogic/auroral) - Animated background gradients with pure CSS.
 * [nib](https://github.com/stylus/nib) - Stylus mixins, utilities, components, and gradient image generation.
 * [webgradients](https://github.com/itmeo/webgradients) - A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.
+* [ColorGradient](https://colorgradient.dev) - Color gradient is a free tool for creating CSS gradients, it helps you with multi-layered and more complex gradients.
 
 <h2 id="cs">C#</h2>
 
